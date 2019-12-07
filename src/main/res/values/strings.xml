@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">coffeeBuzz</string>
+    <string name="action_settings">Settings</string>
+    <string name="applogo">CoffeBuzz</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>food</item>
+        <item>other</item>
+    </string-array>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
